@@ -1,4 +1,4 @@
-# 3 Points Lighting Addon for Blender
+# PROCEDURAL CREATION OF A FUTURISTIC CITY
 
 The Procedural City addon is a script for Blender that allows for the procedural creation of cities. It was developed by Alberto Jativa and Jordi Beltran.
 
@@ -21,7 +21,9 @@ In addition to city creation, this addon also provides functionalities for the c
 2. Modify the values on the buildings such as height or size.
 3. Modify the values of the vehicles such as speed, number of turns...
 4. Select an interpolation method for vehicle movement. If you select Catmull-Rom, you will need to set a value for "tau".
-5. You can add materials named buildings and vehicles to your scene. The addon will be responsible for assigning them randomly to the objects.
+5. When you press the button to generate the city, select the object "car.obj" or another.
+
+**NOTE:** You can add materials named buildings and vehicles to your scene. The addon will be responsible for assigning them randomly to the objects.
 
 In the vehicle object interface, you can enable or disable roll for each vehicle, as well as use reparameterization along the animation curve.
 
